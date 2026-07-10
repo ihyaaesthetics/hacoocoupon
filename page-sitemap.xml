@@ -1,85 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
- <loc>https://hacoocouponcode.co.uk/</loc>		<lastmod>2026-05-13T14:53:01+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/05/hacoo-featured-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/05/hacoo-woman-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-    <loc>https://hacoocouponcode.co.uk/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
-</url>
-	
-	<url>
-    <loc>https://hacoocouponcode.co.uk/contact-us/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
 
-<url>
-    <loc>https://hacoocouponcode.co.uk/disclaimer/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
-</url>
+    <url>
+        <loc>https://hacoocouponcode.co.uk/</loc>
+        <lastmod>2026-07-10T00:00:00+00:00</lastmod>
 
-<url>
-    <loc>https://hacoocouponcode.co.uk/terms/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
-</url>
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/05/hacoo-featured-1.jpg</image:loc>
+        </image:image>
 
-<url>
-    <loc>https://hacoocouponcode.co.uk/privacy-policy-2/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
-</url>
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/04/Screenshot-22.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://hacoocouponcode.co.uk/wp-content/uploads/2026/05/hacoo-woman-1.jpg</image:loc>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://hacoocouponcode.co.uk/contact-us/</loc>
+        <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://hacoocouponcode.co.uk/disclaimer/</loc>
+        <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://hacoocouponcode.co.uk/terms/</loc>
+        <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://hacoocouponcode.co.uk/privacy-policy-2/</loc>
+        <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    </url>
+
 </urlset>
-<!-- XML Sitemap generated by Rank Math SEO Plugin (c) Rank Math - rankmath.com -->
